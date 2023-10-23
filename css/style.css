@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/middle-earth-personal-use');
+
 body{
     background-color: #d2d2d2;
     text-align: center;
@@ -26,6 +28,9 @@ a:visited{
     font-weight: bold;
     font-size: 42px;
     padding: 10px;
+    font-family: 'Middle Earth PERSONAL USE', sans-serif;
+                                                                                                
+                                                
 
 }
 
@@ -34,11 +39,15 @@ h1{
     font-weight: bold;
     font-size: 52px;
     margin: 10%;
+    font-family: 'Middle Earth PERSONAL USE', sans-serif;
+                                                
+
 }
 
 
 .page1{
     padding: 10px;
+                                                
 }
 
 
